@@ -22,5 +22,5 @@ This Excel dashboard visualizes sales performance using charts, pivot tables, an
 
 ## 👤 Author
 **Ashraf R**  
-📧 your.email@example.com  
+📧 ashraf93ash@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ashraf-r-9b20342b5/).
